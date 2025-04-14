@@ -71,6 +71,11 @@ This project showcases an **Internet of Things (IoT)** based smart agriculture m
 
 - Special thanks to the open-source community ❤️
 
+- ![3](https://github.com/user-attachments/assets/fb000adc-bf3c-4e60-8a48-293e0bf6c092)
+![2](https://github.com/user-attachments/assets/5c609615-6b4c-46b6-8264-4f5cbbc86e84)
+![1](https://github.com/user-attachments/assets/5179d071-831c-45ed-9cff-cf4626e2f786)
+
+
 ---
 
 ## 📝 License
